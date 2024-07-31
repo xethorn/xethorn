@@ -4,6 +4,8 @@ I'm [Michael](https://linkedin.com/in/xethorn), a French-American software engin
 
 Known for being the architect behind YouTube's most consequential and largest redesigns (2011, 2012); laying Pinterest's foundations for high-scale user adoption (personalization, internationalization, ads); revamping Square APIs, Customer and Buyer Platform; rewriting CashApp's payment platform and leading internationalization efforts. I'm currently helping GlossGenius evolve its technical stack and engineering organization. 
 
+On my freetime, I'm a proud cat dad that loves to make ramen (or any other Asian-inspired dish) while still finding ways to explore our beautiful blue planet. It's all about having a good time, and living every minute to its fullest.
+
 ----
 
 > [!NOTE]
