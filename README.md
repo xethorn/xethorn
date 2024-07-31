@@ -7,4 +7,4 @@ Known for being the architect behind YouTube's most consequential and largest re
 ----
 
 > [!NOTE]
-> Enough said, tell me more about you and let's see what we can build together, [join us](https://job-boards.greenhouse.io/glossgenius).
+> Enough said, tell me more about you and let's see what we can build together, [join us](https://job-boards.greenhouse.io/glossgenius), or feel free to connect on [LinkedIn](https://www.linkedin.com/in/xethorn/).
