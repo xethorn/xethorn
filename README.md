@@ -12,7 +12,6 @@ On my freetime, I'm a proud cat dad that loves to make ramen (or any other Asian
 [![Threads](https://img.shields.io/badge/threads-xethorn?style=flat&logo=threads&logoColor=%23ffffff&labelColor=blue&color=blue)](https://threads.com/xethorn)
 [![Instagram](https://img.shields.io/badge/instagram-xethorn?style=flat&logo=instagram&logoColor=%23ffffff&labelColor=blue&color=blue)](https://instagram.com/xethorn)
 
-
 #
 
 > [!NOTE]
