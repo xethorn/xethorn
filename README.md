@@ -1,6 +1,6 @@
 <h1 align="center">Hello • Bonjour • La Orana • こんにちは.</h1>
   
-### I'm [Michael](https://linkedin.com/in/xethorn), a French-American senior staff software engineer currently working at [@GlossGenius](https://github.com/glossgenius).
+### I'm [Michael](https://linkedin.com/in/xethorn), a French-American principal software engineer currently working at [@GlossGenius](https://github.com/glossgenius).
 
 I believe in creating software that empowers others achieve their dreams and reaching higher grounds, from creatives to business owners. Throughout my years in tech, I worked at small and large companies such as [@Google](https://github.com/google), [@YouTube](https://github.com/youtube), [@Pinterest](https://github.com/pinterest), [@Square](https://github.com/square), [@CashApp](https://github.com/cashapp) leading high-impact initiatives. 
 
